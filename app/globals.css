@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+html, body {
+  background-color: #FAFAFA;
+  min-width: 350px;
+  /* overflow-x: auto; */
+}
